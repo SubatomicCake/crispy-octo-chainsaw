@@ -20,3 +20,7 @@ if keyboard_check(vk_down) and !place_meeting(x,y+4,o_wall){
 	sprite_index = s_player_run_down
 	image_speed = .6
 }
+if !keyboard_check(vk_right) and !keyboard_check(vk_left) and !keyboard_check(vk_up) and !keyboard_check(vk_down){
+	image_speed = 0
+	sprite_index = 
+}
