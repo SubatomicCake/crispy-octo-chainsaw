@@ -1,3 +1,4 @@
+
 if keyboard_check(vk_right) and !place_meeting(x+4,y,o_wall){
 	x += global.speed_
 	sprite_index = s_player_run_right
@@ -19,4 +20,9 @@ if keyboard_check(vk_down) and !place_meeting(x,y+4,o_wall){
 	y += global.speed_
 	sprite_index = s_player_run_down
 	image_speed = .6
+}
+
+// dashing
+if keyboard_check(vk_space) {
+		alarm[0] = 10;
 }
