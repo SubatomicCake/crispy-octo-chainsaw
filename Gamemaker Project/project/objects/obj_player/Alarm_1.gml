@@ -1,0 +1,1 @@
+global.speed_ = 4
