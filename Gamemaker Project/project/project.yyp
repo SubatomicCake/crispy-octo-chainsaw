@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "0cfb2883-b97f-4a51-b158-7b4bf11f9c2b",
+            "Value": {
+                "id": "c71788c0-5bc6-4eda-9b80-b8727995826f",
+                "resourcePath": "sprites\\s_door_open\\s_door_open.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "21c0e66e-21ab-4483-8188-28a9894a3caa",
             "Value": {
                 "id": "85e99b68-6327-4397-956a-e5a6218cf755",
@@ -159,6 +167,14 @@
             }
         },
         {
+            "Key": "a0d97947-ced9-4588-ad5a-de25a385773c",
+            "Value": {
+                "id": "7341421d-cbf7-4c96-9d23-f9955c485976",
+                "resourcePath": "sprites\\s_door_closed\\s_door_closed.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a3bf75a5-545e-4f39-9ced-e33eb88508ea",
             "Value": {
                 "id": "e7f37fef-f7a6-4659-961d-9d2bac36c52f",
@@ -172,14 +188,6 @@
                 "id": "b3b62688-8073-4463-94fb-1225debd4023",
                 "resourcePath": "views\\a523953a-dc02-4c16-a5d4-c3677b3f23a8.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
-            "Value": {
-                "id": "9048f3e3-44af-40f4-979c-2e94937e5a42",
-                "resourcePath": "options\\linux\\options_linux.yy",
-                "resourceType": "GMLinuxOptions"
             }
         },
         {
@@ -223,6 +231,14 @@
             }
         },
         {
+            "Key": "d1eac6c2-2e2f-4f7d-8349-30fdf1fce418",
+            "Value": {
+                "id": "0aaef175-ae25-4b7f-899d-790be20b1e6d",
+                "resourcePath": "objects\\obj_door\\obj_door.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "dcb0ec94-608c-4d08-8b3e-be10d64049bf",
             "Value": {
                 "id": "2d29da00-1369-40a0-8984-49afe9655a96",
@@ -244,14 +260,6 @@
                 "id": "13d5a90d-f6a6-40ca-9059-dc62498044a0",
                 "resourcePath": "rooms\\room0\\room0.yy",
                 "resourceType": "GMRoom"
-            }
-        },
-        {
-            "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
-            "Value": {
-                "id": "ee6d98ac-83b8-4686-91ee-06d486fc0033",
-                "resourcePath": "options\\mac\\options_mac.yy",
-                "resourceType": "GMMacOptions"
             }
         },
         {

@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "dash_outer",
     "eventList": [
-        
+        {
+            "id": "e0f647bb-898b-4145-b823-da4166a29012",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
+            "m_owner": "37b8dc7c-a403-4517-a2af-cab5677029f0"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "parentObjectId": "00000000-0000-0000-0000-000000000000",
