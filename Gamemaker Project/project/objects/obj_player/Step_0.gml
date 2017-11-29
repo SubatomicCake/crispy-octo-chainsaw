@@ -1,3 +1,4 @@
+// movement
 depth = -5
 
 if keyboard_check(vk_right) and !place_meeting(x+global.speed_,y,o_wall){
@@ -22,7 +23,9 @@ if keyboard_check(vk_down) and !place_meeting(x,y+global.speed_,o_wall){
 	sprite_index = s_player_run_down
 	image_speed = .6
 }
+
 // stopping frames when nothing is pressed
+
 if !keyboard_check(vk_right) and !keyboard_check(vk_left) and !keyboard_check(vk_up) and !keyboard_check(vk_down) and keyboard_lastkey = vk_left {
 	image_speed = 0
 	sprite_index = s_player_run_right
