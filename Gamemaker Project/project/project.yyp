@@ -207,11 +207,27 @@
             }
         },
         {
+            "Key": "af9960f0-a350-4625-bc66-832b59968275",
+            "Value": {
+                "id": "c64de9fe-9ee0-4df7-ae3a-d29f66dd0bbf",
+                "resourcePath": "sprites\\s_key\\s_key.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b9a3ea65-b714-4233-a0c7-78a356cd53f2",
             "Value": {
                 "id": "3e8777c8-9de3-4f7a-8f8e-7bd85fbd6db0",
                 "resourcePath": "views\\b9a3ea65-b714-4233-a0c7-78a356cd53f2.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "bed1fe99-fecf-42d2-8c30-6ad3ecd9ca3d",
+            "Value": {
+                "id": "52fbf73c-e0fb-4b1c-8f79-aa751b3ec71e",
+                "resourcePath": "objects\\obj_key\\obj_key.yy",
+                "resourceType": "GMObject"
             }
         },
         {
