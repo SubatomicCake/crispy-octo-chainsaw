@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "402bd07b-e426-46da-9560-3a4a6255c36d",
+            "Value": {
+                "id": "944acb82-6d19-432a-8a9c-e7135e86aef6",
+                "resourcePath": "sprites\\map_background\\map_background.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "514b009e-d1ae-4515-bd52-23c5809161b8",
             "Value": {
                 "id": "768f1099-7532-4cec-9d83-41b2a2967846",
@@ -204,6 +212,14 @@
                 "id": "b3b62688-8073-4463-94fb-1225debd4023",
                 "resourcePath": "views\\a523953a-dc02-4c16-a5d4-c3677b3f23a8.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "ab2e6063-c9ae-407d-98eb-9a78c3a672be",
+            "Value": {
+                "id": "3e09030a-b59c-4079-8c86-d9a807735f30",
+                "resourcePath": "sprites\\s_player_run_down_w_sword\\s_player_run_down_w_sword.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

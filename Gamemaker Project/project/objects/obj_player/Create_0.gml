@@ -1,4 +1,4 @@
-global.speed_ = 4;
+global.speed_ = 3;
 global.dash = 12;
 global.ready = true
 sprite_index = s_player_down_still

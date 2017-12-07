@@ -1,2 +1,2 @@
-global.speed_ = 4
-image_speed = .6
+global.speed_ = 3
+image_speed = .8
