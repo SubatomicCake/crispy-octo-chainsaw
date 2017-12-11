@@ -15,7 +15,7 @@ if keyboard_check(vk_left) and !place_meeting(x-global.speed_,y,o_wall){
 }
 if keyboard_check(vk_up) and !place_meeting(x,y-global.speed_,o_wall){
 	y -= global.speed_
-	sprite_index = s_player_run_up
+	sprite_index = s_player_run_down1
 	image_speed = .8
 }
 if keyboard_check(vk_down) and !place_meeting(x,y+global.speed_,o_wall){

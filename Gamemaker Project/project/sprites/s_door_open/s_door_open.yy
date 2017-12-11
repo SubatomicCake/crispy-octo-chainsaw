@@ -16,34 +16,34 @@
     "edgeFiltering": false,
     "frames": [
         {
-            "id": "4ef57e5b-af80-4946-a2ee-6f877b9c2b7e",
+            "id": "24782082-1ed0-47a7-a712-3b9797dea5f7",
             "modelName": "GMSpriteFrame",
             "mvc": "1.0",
             "SpriteId": "0cfb2883-b97f-4a51-b158-7b4bf11f9c2b",
             "compositeImage": {
-                "id": "49eaeb0d-b876-462d-9943-05f94c94a766",
+                "id": "26641f38-641b-4618-b7b9-515b4d1678c6",
                 "modelName": "GMSpriteImage",
                 "mvc": "1.0",
-                "FrameId": "4ef57e5b-af80-4946-a2ee-6f877b9c2b7e",
+                "FrameId": "24782082-1ed0-47a7-a712-3b9797dea5f7",
                 "LayerId": "00000000-0000-0000-0000-000000000000"
             },
             "images": [
                 {
-                    "id": "73410eb9-2221-48e9-831e-f73308dc0692",
+                    "id": "614d3736-3059-4125-9b47-3f7e3ea47b9f",
                     "modelName": "GMSpriteImage",
                     "mvc": "1.0",
-                    "FrameId": "4ef57e5b-af80-4946-a2ee-6f877b9c2b7e",
-                    "LayerId": "fe88cfd8-6be2-4159-981c-9bc8f5550c6c"
+                    "FrameId": "24782082-1ed0-47a7-a712-3b9797dea5f7",
+                    "LayerId": "d77bf3fa-7d66-4505-80a9-13560b7289f7"
                 }
             ]
         }
     ],
     "gridX": 0,
     "gridY": 0,
-    "height": 16,
+    "height": 20,
     "layers": [
         {
-            "id": "fe88cfd8-6be2-4159-981c-9bc8f5550c6c",
+            "id": "d77bf3fa-7d66-4505-80a9-13560b7289f7",
             "modelName": "GMImageLayer",
             "mvc": "1.0",
             "SpriteId": "0cfb2883-b97f-4a51-b158-7b4bf11f9c2b",
@@ -54,7 +54,7 @@
             "visible": true
         }
     ],
-    "origin": 0,
+    "origin": 9,
     "originLocked": false,
     "playbackSpeed": 15,
     "playbackSpeedType": 0,
@@ -65,6 +65,6 @@
     "textureGroupId": "1225f6b0-ac20-43bd-a82e-be73fa0b6f4f",
     "type": 0,
     "width": 16,
-    "xorig": 0,
-    "yorig": 0
+    "xorig": 13,
+    "yorig": 18
 }
