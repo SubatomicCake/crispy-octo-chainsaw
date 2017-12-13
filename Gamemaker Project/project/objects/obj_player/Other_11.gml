@@ -1,0 +1,3 @@
+/// @description Attack State
+
+instance
