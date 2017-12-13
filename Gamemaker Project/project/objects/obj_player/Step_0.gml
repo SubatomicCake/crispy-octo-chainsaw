@@ -55,7 +55,7 @@ if !keyboard_check(vk_right) and !keyboard_check(vk_left) and !keyboard_check(vk
 if keyboard_check(vk_lcontrol)
 	and distance_to_object(obj_door) <= 10 and global.player_has_key = true
 	global.door_locked = false
-
+	
 
 
 
