@@ -57,7 +57,9 @@ if keyboard_check(vk_lcontrol)
 	global.door_locked = false
 	
 
-
+if keyboard_check("X") {
+	event_user(1)
+}
 
 
 
